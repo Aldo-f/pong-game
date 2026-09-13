@@ -1,0 +1,25 @@
+{
+  "name": "pong-game",
+  "version": "1.0.0",
+  "description": "A simple Pong game with HTML, CSS, and JavaScript featuring player vs computer gameplay",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldo-f/pong-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aldo-f/pong-game/issues"
+  },
+  "homepage": "https://github.com/Aldo-f/pong-game#readme",
+  "devDependencies": {
+    "vitest": "^5.0.0"
+  }
+}
